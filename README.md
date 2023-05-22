@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **paggstudios/paggstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### A little About ME:
+
+My name is Bhavan, and I am enrolled in a full-stack web development diploma program at the University of Alberta. I am committed to always enhancing my abilities and broadening my knowledge because I have a passion for technology, programming, and learning new things. I also enjoy spending time outside and participating in activities such as kayaking, hiking, and walking.
